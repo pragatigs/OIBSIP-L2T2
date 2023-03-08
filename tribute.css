@@ -1,0 +1,33 @@
+body {
+  font-style: bold;
+  background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRX_0Kg06i4g9s6AwHHssscUGNCkxKj2o6A-94pob5LlNSGh2TX9DgE-JtSjFy2nZtOth4&usqp=CAU");
+  background-repeat: no-repeat;
+  background-size: 1700px 900px;
+  opacity: 0.9;
+}
+p {
+  text-shadow: 4px 4px 9px rgba(0, 0, 0, 0.59);
+  font-family: "EB Garamond", serif;
+  font-size: 50px;
+}
+.main {
+  display: flex;
+}
+.left {
+  font-style: bold;
+  font-family: "EB Garamond", serif;
+  font-size: 25px;
+  padding: 15px;
+  margin: 9px;
+  margin-top: 45px;
+  margin-right: 25px;
+}
+img {
+  margin-top: 8px;
+  height: 500px;
+  box-shadow: 10px 10px 15px 0px rgba(5, 5, 5, 0.54);
+  border-radius: 30px;
+}
+.right {
+  margin-right: 30px;
+}
